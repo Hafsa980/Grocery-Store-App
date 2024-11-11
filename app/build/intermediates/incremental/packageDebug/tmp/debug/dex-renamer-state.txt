@@ -1,0 +1,4 @@
+#Tue Dec 26 16:22:48 PKT 2023
+base.0=D\:\\CSE\\SEMESTER 7\\MAD\\Extra\\GroceryStore\\GroceryStore\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
